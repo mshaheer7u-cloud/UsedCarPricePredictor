@@ -2,7 +2,7 @@
 
 A machine learning web app that estimates the fair market price of a used car based on its specifications — built with Random Forest regression.
 
-**🔗 Live App:** https://usedcarpricepredictor-2026.streamlit.app/
+**🔗 Live App:** [https://usedcarpricepredictor-2026.streamlit.app/](https://usedcarpricepredictor-2026.streamlit.app/)
 
 ---
 
